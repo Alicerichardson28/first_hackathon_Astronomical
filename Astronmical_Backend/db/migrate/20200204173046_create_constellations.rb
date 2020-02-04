@@ -3,8 +3,10 @@ class CreateConstellations < ActiveRecord::Migration[6.0]
     create_table :constellations do |t|
       t.string :name
       t.string :photo
-      t.string :description
       t.string :location
+      t.string :fun_fact
+      t.string :mythology
+      t.string :main_stars
 
       t.timestamps
     end
