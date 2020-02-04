@@ -149,4 +149,3 @@ cassiopeia = Constellation.create(
     main_stars:"Arkab, Rukbat, Ascella, Kaus Australis"
     )
 
-
