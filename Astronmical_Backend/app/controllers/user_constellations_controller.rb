@@ -1,0 +1,2 @@
+class UserConstellationsController < ApplicationController
+end
